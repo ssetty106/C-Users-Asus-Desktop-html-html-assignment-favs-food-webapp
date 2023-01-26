@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+}
+img{
+    max-width: 500px;
+}
+div{
+    text-align: center;
+}
+header nav a{
+    background-color: blueviolet;
+    color: black;
+    padding: 10px 15px;
+    display: inline-block;
+    text-decoration: none;
+}
